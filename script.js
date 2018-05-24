@@ -1,4 +1,4 @@
-// alert("Open console to see newsfeed");
+alert("Open console to see newsfeed");
 var user = prompt("Enter username");
 var pass = prompt("Enter password");
 
